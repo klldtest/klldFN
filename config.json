@@ -1,0 +1,21 @@
+{
+    "Control": {
+      "FullAccess": ["Your Account Name"],
+      "Language": "en"
+    },
+    "cosmetics": {
+      "outfit": "CID_028_Athena_Commando_F",
+      "backpack": "BID_138_Celestial",
+      "pickaxe": "Pickaxe_ID_376_FNCS"
+    },
+    "banner": {
+      "bannerName": "InfluencerBanner38",
+      "bannerColor": "defaultcolor22",
+      "level": 999
+    },
+    "sanic web": {
+      "start": false,
+      "host": "0.0.0.0",
+      "port": "8000"
+    }
+  }
