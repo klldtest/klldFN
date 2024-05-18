@@ -1,0 +1,220 @@
+{
+    "translations": {
+        "Client-ready": {
+            "en": "Client ready",
+            "de": "Client bereit",
+            "ja": "クライアントが準備完了",
+            "fr": "Client prêt",
+            "ar": "العميل جاهز",
+            "es": "Cliente listo"
+        },
+        "error-klldfn": {
+            "en": "[klldFN] Error:",
+            "de": "[klldFN] Fehler:",
+            "ja": "[klldFN] エラー:",
+            "fr": "[klldFN] Erreur :",
+            "ar": "[klldFN] خطأ:",
+            "es": "[klldFN] Error:"
+        },
+        "promote-thanks_old": {
+            "en": "Thanks {} for promoting me",
+            "de": "Danke {} für die Beförderung",
+            "ja": "{} さん、昇進してくれてありがとう",
+            "fr": "Merci {} de m'avoir promu",
+            "ar": "شكرًا {} على ترقيتي",
+            "es": "Gracias {} por promoverme"
+        },
+        "promote-thanks": {
+            "en": "Thanks for promoting me",
+            "de": "Danke für die Beförderung",
+            "ja": "昇進してくれてありがとう",
+            "fr": "Merci de m'avoir promu",
+            "ar": "شكرًا على ترقيتي",
+            "es": "Gracias por promoverme"
+        },
+        "party-invite": {
+            "en": "Join Me :)",
+            "de": "Komm mit mir :)",
+            "ja": "一緒に参加しましょう :)",
+            "fr": "Rejoins-moi :)",
+            "ar": "انضم إلي :)",
+            "es": "Únete a mí :)"
+        },
+          "member-join": {
+            "en": "Hi {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
+            "de": "Hallo {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
+            "ja": "こんにちは {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
+            "fr": "Salut {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
+            "ar": "مرحبًا {} \n يوتيوب | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
+            "es": "Hola {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5"
+        },
+        "command-error-notfound": {
+            "en": "That is not a command. Try help",
+            "de": "Das ist kein Befehl. Versuche es mit Hilfe",
+            "ja": "それはコマンドではありません。ヘルプを試してみてください",
+            "fr": "Ce n'est pas une commande. Essayez help",
+            "ar": "هذا ليس أمرًا. جرب المساعدة",
+            "es": "Eso no es un comando. Intenta ayuda"
+          },
+          "command-error-checkfailure": {
+            "en": "You don't have access to that command",
+            "de": "Du hast keinen Zugriff auf diesen Befehl",
+            "ja": "そのコマンドにアクセスできません",
+            "fr": "Vous n'avez pas accès à cette commande",
+            "ar": "ليس لديك صلاحية لهذا الأمر",
+            "es": "No tienes acceso a ese comando"
+          },
+          "command-error-timeouterror": {
+            "en": "You took too long to respond!",
+            "de": "Du hast zu lange gebraucht, um zu antworten!",
+            "ja": "返信するのに時間がかかりすぎました！",
+            "fr": "Vous avez mis trop de temps à répondre !",
+            "ar": "لقد استغرقت وقتًا طويلاً للرد!",
+            "es": "¡Tardaste demasiado en responder!"
+          },
+          "skin-set": {
+            "en": "Skin set to {}",
+            "de": "Skin auf {} gesetzt",
+            "ja": "{} にスキンが設定されました",
+            "fr": "Peau définie sur {}",
+            "ar": "تعيين الزي على {}",
+            "es": "Skin establecido en {}"
+        },
+        "emote-set": {
+            "en": "Emote set to {}",
+            "de": "Emote auf {} gesetzt",
+            "ja": "{} にエモートが設定されました",
+            "fr": "Emote défini sur {}",
+            "ar": "تعيين الرقص على {}",
+            "es": "Emote establecido en {}"
+        },
+        "backpack-set": {
+            "en": "Backpack set to {}",
+            "de": "Rucksack auf {} gesetzt",
+            "ja": "バックパックを {} に設定しました",
+            "fr": "Sac à dos défini sur {}",
+            "ar": "تعيين الحقيبة إلى {}",
+            "es": "Mochila establecida en {}"
+        },
+        "pickaxe-set": {
+            "en": "Pickaxe set to {}",
+            "de": "Spitzhacke auf {} gesetzt",
+            "ja": "ピッケルを {} に設定しました",
+            "fr": "Pioche définie sur {}",
+            "ar": "تعيين الفأس إلى {}",
+            "es": "Pico establecido en {}"
+        },
+        "random-skin-set": {
+            "en": "Skin randomly set to {}",
+            "de": "Zufällig Skin auf {} gesetzt",
+            "ja": "ランダムにスキンが {} に設定されました",
+            "fr": "Peau définie aléatoirement sur {}",
+            "ar": "تعيين الزي بشكل عشوائي إلى {}",
+            "es": "Skin establecido aleatoriamente en {}"
+        },
+        "random-emote-set": {
+            "en": "Emote randomly set to {}",
+            "de": "Zufällig Emote auf {} gesetzt",
+            "ja": "ランダムにエモートが {} に設定されました",
+            "fr": "Emote défini aléatoirement sur {}",
+            "ar": "تعيين الرقص بشكل عشوائي إلى {}",
+            "es": "Emote establecido aleatoriamente en {}"
+        },
+        "crown-set": {
+            "en": "Set {} Crowns",
+            "de": "{} Kronen gesetzt",
+            "ja": "{} 個のクラウンを設定しました",
+            "fr": "{} couronnes définies",
+            "ar": "تعيين {} تاجًا",
+            "es": "Establecer {} coronas"
+        },
+        "purpleskull": {
+            "en": "Skin set to Purple Skull Trooper!",
+            "de": "Haut auf Lila Schädeltruppler gesetzt!",
+            "ja": "スキンがパープルスカルトルーパーに設定されました！",
+            "fr": "Peau définie sur le Soldat Squelette Violet !",
+            "ar": "تعيين الزي إلى جندي الجمجمة الأرجواني!",
+            "es": "¡Skin establecido en el Soldado de Cráneo Púrpura!"
+        },
+        "pinkghoul": {
+            "en": "Skin set to Pink Ghoul Trooper!",
+            "de": "Haut auf Pink Ghoul Truppler gesetzt!",
+            "ja": "スキンがピンクグールトルーパーに設定されました！",
+            "fr": "Peau définie sur le Soldat Ghoul Rose !",
+            "ar": "تعيين الزي إلى جندي الغول الوردي!",
+            "es": "¡Skin establecido en Soldado de Ghoul Rosa!"
+        },
+        "aerial": {
+            "en": "Skin set to aerial!",
+            "de": "Haut auf Luft gesetzt!",
+            "ja": "スキンが空中に設定されました！",
+            "fr": "Peau définie sur aérien !",
+            "ar": "تعيين الزي إلى جوي!",
+            "es": "¡Skin establecido en aéreo!"
+        },
+        "hologram": {
+            "en": "Skin set to Star Wars Hologram!",
+            "de": "Haut auf Star Wars Hologramm gesetzt!",
+            "ja": "スキンがスター・ウォーズホログラムに設定されました！",
+            "fr": "Peau définie sur Hologramme Star Wars !",
+            "ar": "تعيين الجلد إلى هولوجرام حروب النجوم!",
+            "es": "¡Skin establecido en Holograma de Star Wars!"
+        },
+        "point": {
+            "en": "Pickaxe set & Point it Out played",
+            "de": "Spitzhacke gesetzt & Point it Out gespielt",
+            "ja": "ピッケルを設定し、ポイントして再生しました",
+            "fr": "Pioche définie & Point it Out joué",
+            "ar": "تعيين فأس الجلاد وتشغيله",
+            "es": "Pico establecido y Point it Out reproducido"
+        },
+        "stop-emote": {
+            "en": "Stopped emoting",
+            "de": "Emote gestoppt",
+            "ja": "エモートを停止しました",
+            "fr": "Arrêté de faire un emote",
+            "ar": "توقفت عن الرقص",
+            "es": "Se detuvo el emote"
+        },
+        "ready": {
+            "en": "Ready!",
+            "de": "Bereit!",
+            "ja": "準備完了！",
+            "fr": "Prêt !",
+            "ar": "جاهز!",
+            "es": "¡Listo!"
+        },
+        "unready": {
+            "en": "Unready!",
+            "de": "Nicht bereit!",
+            "ja": "準備解除！",
+            "fr": "Pas prêt !",
+            "ar": "غير جاهز!",
+            "es": "¡No listo!"
+        },
+        "level": {
+            "en": "Set level to {}",
+            "de": "Level auf {} gesetzt",
+            "ja": "レベルを {} に設定しました",
+            "fr": "Niveau défini sur {}",
+            "ar": "تعيين المستوى إلى {}",
+            "es": "Nivel establecido en {}"
+        },
+        "say": {
+            "en": "Sent {} to party chat",
+            "de": "{} an Party-Chat gesendet",
+            "ja": "{} をパーティーチャットに送信しました",
+            "fr": "Envoyé {} au chat de groupe",
+            "ar": "إرسال {} إلى الدردشة الجماعية",
+            "es": "Enviado {} al chat de grupo"
+        },
+        "say-no": {
+            "en": "No message was given. Try: !say (message)",
+            "de": "Keine Nachricht wurde gegeben. Versuche: !say (Nachricht)",
+            "ja": "メッセージが指定されていません。次のように試してみてください：!say (メッセージ)",
+            "fr": "Aucun message n'a été donné. Essayez : !say (message)",
+            "ar": "لم يتم إعطاء رسالة. جرب: !say (الرسالة)",
+            "es": "No se proporcionó ningún mensaje. Intenta: !say (mensaje)"
+        }
+    }
+}
