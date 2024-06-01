@@ -1,0 +1,44 @@
+{
+    "translations": {
+        "Updating-klldFN": {
+            "en": "Updating klldFN from {} to {}...",
+            "de": "Aktualisiere klldFN von {} auf {}...",
+            "ja": "klldFNを{}から{}に更新しています...",
+            "fr": "Mise à jour de klldFN de {} à {}...",
+            "ar": "تحديث klldFN من {} إلى {}...",
+            "es": "Actualizando klldFN de {} a {}..."
+        },
+        "restart-script": {
+            "en": "Update successful! Restarting script...",
+            "de": "Aktualisierung erfolgreich! Skript wird neu gestartet...",
+            "ja": "アップデートが成功しました！スクリプトを再起動しています...",
+            "fr": "Mise à jour réussie ! Redémarrage du script...",
+            "ar": "تم التحديث بنجاح! إعادة تشغيل النص...",
+            "es": "¡Actualización exitosa! Reiniciando script..."
+        },
+        "klldFN-Starting": {
+            "en": "Starting klldFN v2.0.1...",
+            "de": "Starte klldFN v2.0.1...",
+            "ja": "klldFN v2.0.0を起動しています...",
+            "fr": "Démarrage de klldFN v2.0.1...",
+            "ar": "klldFN v2.0.1... جاري تشغيل",
+            "es": "Iniciando klldFN v2.0.1..."
+        },
+        "updating-package": {
+            "en": "Checking and Updating package...",
+            "de": "Paket wird überprüft und aktualisiert...",
+            "ja": "パッケージをチェックして更新しています...",
+            "fr": "Vérification et mise à jour du package en cours...",
+            "ar": "التحقق وتحديث الحزمة...",
+            "es": "Verificando y actualizando paquete..."
+        },
+        "updating-translations": {
+            "en": "Updating translations...",
+            "de": "Übersetzungen werden aktualisiert...",
+            "ja": "翻訳を更新しています...",
+            "fr": "Mise à jour des traductions en cours...",
+            "ar": "جاري تحديث الترجمات...",
+            "es": "Actualizando traducciones..."
+        }
+    }
+}
