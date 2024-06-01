@@ -1,12 +1,12 @@
 {
     "translations": {
         "Client-ready": {
-            "en": "Client ready",
-            "de": "Client bereit",
-            "ja": "クライアントが準備完了",
-            "fr": "Client prêt",
-            "ar": "العميل جاهز",
-            "es": "Cliente listo"
+            "en": "Client ready {}",
+            "de": "Client bereit {}",
+            "ja": "クライアントが準備完了 {}",
+            "fr": "Client prêt {}",
+            "ar": "{} العميل جاهز",
+            "es": "Cliente listo {}"
         },
         "error-klldfn": {
             "en": "[klldFN] Error:",
@@ -40,7 +40,15 @@
             "ar": "انضم إلي :)",
             "es": "Únete a mí :)"
         },
-          "member-join": {
+        "friend-add": {
+            "en": "Hi {} u add me now \n join me for more and fun thing ! \n klldfn.xyz",
+            "de": "Hallo {} füge mich jetzt hinzu \n komm zu mir für mehr und Spaß! \n klldfn.xyz",
+            "ja": "こんにちは{} 今すぐ私を追加してください \n もっと楽しいことがあります！ \n klldfn.xyz",
+            "fr": "Salut {} ajoutez-moi maintenant \n rejoignez-moi pour plus de choses amusantes ! \n klldfn.xyz",
+            "ar": "مرحبًا {} أضفني الآن \n انضم إلي للمزيد من المتعة! \n klldfn.xyz",
+            "es": "Hola {} añádeme ahora \n únete a mí para más y diversión ! \n klldfn.xyz"
+        },      
+        "member-join": {
             "en": "Hi {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
             "de": "Hallo {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
             "ja": "こんにちは {} \n YouTube | klld \n klldfn.xyz \n discord.gg/ybr7evg4q5",
@@ -121,7 +129,7 @@
             "es": "Emote establecido aleatoriamente en {}"
         },
         "crown-set": {
-            "en": "Set {} Crowns",
+            "en": "Set {} Crown",
             "de": "{} Kronen gesetzt",
             "ja": "{} 個のクラウンを設定しました",
             "fr": "{} couronnes définies",
@@ -149,7 +157,7 @@
             "de": "Haut auf Luft gesetzt!",
             "ja": "スキンが空中に設定されました！",
             "fr": "Peau définie sur aérien !",
-            "ar": "تعيين الزي إلى جوي!",
+            "ar": "تعيين الزي إلى جندي الهجوم الجوي!",
             "es": "¡Skin establecido en aéreo!"
         },
         "hologram": {
