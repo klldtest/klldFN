@@ -1,4 +1,9 @@
-{
+{   
+    "discord": {
+      "start": false,
+      "token": "discord token",
+      "ownerId": []
+    },
     "Control": {
       "FullAccess": ["Your Account Name"],
       "Language": "en"
