@@ -11,6 +11,7 @@ arabic-reshaper
 python-bidi
 jinja2
 cryptography
+packaging
 aioxmpp>=0.13.3
 aioconsole>=0.1.15
 pytz>=2024.2
